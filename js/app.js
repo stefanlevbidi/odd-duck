@@ -115,3 +115,4 @@ const imgContainer = document.getElementById("img-container");
 imgContainer.addEventListener("click", handleClick);
 
 renderProducts();
+
